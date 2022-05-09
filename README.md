@@ -7,5 +7,6 @@ Day 17
 
 Today I returned to the hackathon from Day 9 at school of code.  
 We used an API to retrieve trivia questions, and create a simple quiz.  
+Today I added a container and experimented with CSS to style it.
 
 Link to Media Trivia Game: https://github.com/KatieClarinet/Branch-of-fetch-hackathon---Trivia-Game
