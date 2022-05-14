@@ -43,3 +43,15 @@ This evening I decided to code the page and here's where I've got to:
 https://github.com/KatieClarinet/CatchLandingPage  
   
 I still need to center the text in the footer boxes and tweak a few things, but it's the best CSS work I've done so far, and acheived in just a few hours so that's progress!  
+  
+  **Day 22**  
+  
+*Weekend Soc Tasks*  
+The task this weekend is to put our new UX/UI skills into practice and research, design and code a Portfolio page. I used Miro to start a basic plan, then created a survey using Google Forms which I've sent out to as many devs as I can. I'll check how many responces I have tomorrow then continue my planning based on survey responses.  
+
+*Rock Paper Scissors Game*  
+It's been really bugging me that I never fixed my RPS game so that it tracks the amount of 'wins/losses/draws'. I watched a JavaScript tutorial on YouTube on how to create the RPS game and followed along. The tutorial doesn't show how to track the score (which I realised once I got to the end of the tutorial!) but, I actually worked out how to do it anyway. So here it is (it's just html and JS, no CSS yet): [Rock Paper Scissors Game](https://github.com/KatieClarinet/RockPaperScissors)  
+
+*Music Trivia Game*  
+I went back to my Trivia Game to work on how to track the score and spent a long time playing around with various ways to increment the scores. Eventually I took a piece of paper and drew a map of where I want each function/loop/button to lead, and then drew out a map of what my code was actually doing. I realised that I had all three buttons calling the same function (oops!) and that my code was not in the right order. Happy to say this is now fixed and the game score works!
+[Music Trivia Game] (https://github.com/KatieClarinet/Branch-of-fetch-hackathon---Trivia-Game)
