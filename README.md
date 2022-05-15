@@ -60,4 +60,4 @@ I went back to my Trivia Game to work on how to track the score and spent a long
 
 I continued with the SoC weekend task. Using the data from my survey I created user stories and personas. I made an inspiration board and had a think about what I liked most: bold colours and minimalist designs! I then created low fi and high fi wireframes (the hi fi is a work in progress).
 
-![Low Fidelity Wireframe 1 of 2](Low Fi Wireframe (1 of 2).png)
+![Low Fidelity Wireframe 1 of 2](/Users/katiewalters/Desktop/SoC_Projects/100DaysOfCode/100DaysOfCode/Low Fi Wireframe (1 of 2).png)
