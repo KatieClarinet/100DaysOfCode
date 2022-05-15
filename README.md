@@ -55,3 +55,9 @@ It's been really bugging me that I never fixed my RPS game so that it tracks the
 *Music Trivia Game*  
 I went back to my Trivia Game to work on how to track the score and spent a long time playing around with various ways to increment the scores. Eventually I took a piece of paper and drew a map of where I want each function/loop/button to lead, and then drew out a map of what my code was actually doing. I realised that I had all three buttons calling the same function (oops!) and that my code was not in the right order. Happy to say this is now fixed and the game score works!
 [Music Trivia Game] (https://github.com/KatieClarinet/Branch-of-fetch-hackathon---Trivia-Game)
+
+**Day 23**
+
+I continued with the SoC weekend task. Using the data from my survey I created user stories and personas. I made an inspiration board and had a think about what I liked most: bold colours and minimalist designs! I then created low fi and high fi wireframes (the hi fi is a work in progress).
+
+![Low Fidelity Wireframe (1 of 2)](/Users/katiewalters/Desktop/SoC_Projects/100DaysOfCode/100DaysOfCode/Low Fi Wireframe (1 of 2).png)
