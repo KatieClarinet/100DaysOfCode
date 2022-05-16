@@ -58,4 +58,12 @@ I went back to my Trivia Game to work on how to track the score and spent a long
 
 **Day 23**
 
-I continued with the SoC weekend task. Using the data from my survey I created user stories and personas. I made an inspiration board and had a think about what I liked most: bold colours and minimalist designs! I then created low fi and high fi wireframes (the hi fi is a work in progress).
+I continued with the SoC weekend task. Using the data from my survey I created user stories and personas. I made an inspiration board and had a think about what I liked most: bold colours and minimalist designs! I then created low fi and high fi wireframes (the hi fi is a work in progress).  
+  
+  **Day 24**  
+    
+This morning I coded my website, copying my High Fideluty Wireframe [My Website](https://github.com/SchoolOfCode/w3_recap-task-KatieClarinet)  
+It's pretty simple at the moment but I will add to it once I have some projects ready.  
+
+  At SoC today we did the W3 tests for HTML, CSS and JavaScript and I scored 77%, 88% and 88% respectively. We then had an introduction to Node and made sure we had it installed. We wrote a few functions using node rather than the browser, which was a new experience!  
+  I'm currently a bit confused on how to export/import on node so will return to work on this tomorrow.
