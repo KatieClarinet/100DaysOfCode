@@ -66,4 +66,8 @@ This morning I coded my website, copying my High Fideluty Wireframe [My Website]
 It's pretty simple at the moment but I will add to it once I have some projects ready.  
 
   At SoC today we did the W3 tests for HTML, CSS and JavaScript and I scored 77%, 88% and 88% respectively. We then had an introduction to Node and made sure we had it installed. We wrote a few functions using node rather than the browser, which was a new experience!  
-  I'm currently a bit confused on how to export/import on node so will return to work on this tomorrow.
+  I'm currently a bit confused on how to export/import on node so will return to work on this tomorrow.  
+
+**Day 25**
+
+Today we used node to access the Express package and learned how to write a (very simple!) server. I don't have much to show for today's work, but I know have a much deeper understanding of how APIs work. Hopefully will build something in the next few days that I can link here.  
