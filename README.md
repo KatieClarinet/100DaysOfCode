@@ -71,3 +71,19 @@ It's pretty simple at the moment but I will add to it once I have some projects 
 **Day 25**
 
 Today we used node to access the Express package and learned how to write a (very simple!) server. I don't have much to show for today's work, but I know have a much deeper understanding of how APIs work. Hopefully will build something in the next few days that I can link here.  
+
+**Day 26**  
+
+We learned about using Express today, including how to make seperate routers:
+- a router that listens for a specific id
+- a router that searches by text (we used the includes method for this).  
+
+Notable thing(s) I learned:
+- when using 'params' remember these are always a string. So, if you need your data to be treated as a number you will need to use JavaScript 'number' to wrap and convert to a number.  
+
+This evening I read up on RESTful APIs and created a revision board on miro. 
+![Revision Board](Revision_Board.png)  
+
+
+
+
