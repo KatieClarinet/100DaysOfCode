@@ -84,6 +84,17 @@ Notable thing(s) I learned:
 This evening I read up on RESTful APIs and created a revision board on miro. 
 ![Revision Board](Revision_Board.png)  
 
+**Day 27**  
+
+This morning we continued our learning of Express and used the GET and POST methods to view/add to our data (an array of books). We used an API called postman rather than our browser.  
+
+In the afternoon we split into groups and researched various aspects of Express. In my group we looked at 'Validating input with Express'. A summary:
+- Express-validator provides access to a huge selection of pre-made functions which allow you to (from server side) validate and sanitise the requests of the user/client
+- it checks that the input data is in the expected format and type
+- it removes unsafe characters from user input
+- this provides defense against attacks
+
+
 
 
 
