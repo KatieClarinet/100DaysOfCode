@@ -92,7 +92,12 @@ In the afternoon we split into groups and researched various aspects of Express.
 - Express-validator provides access to a huge selection of pre-made functions which allow you to (from server side) validate and sanitise the requests of the user/client
 - it checks that the input data is in the expected format and type
 - it removes unsafe characters from user input
-- this provides defense against attacks
+- this provides defense against attacks  
+
+**Day 28**
+
+We had a hackathon today where we created a RESTful API using all CRUD routes. My pair were successful with this but I feel like my knowledge is still pretty shaky so I'm hoping to research these methods/routes a lot more! Our weekend tasks are along the same vein but with some bonus tasks to link up to the front end - so hopefully I can solidify my knowledge with these... stay tuned.  
+
 
 
 
