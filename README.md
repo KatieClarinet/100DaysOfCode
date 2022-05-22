@@ -10,7 +10,7 @@ Today I returned to the hackathon from Day 9 at school of code.
 We used an API to retrieve trivia questions, and create a simple quiz.  
 Today I added a container and experimented with CSS to style it.
 
-Link to Media Trivia Game: https://github.com/KatieClarinet/Branch-of-fetch-hackathon---Trivia-Game
+[Media Trivia Game:](https://github.com/KatieClarinet/Branch-of-fetch-hackathon---Trivia-Game)
 
 **Day 18**
 
@@ -102,7 +102,11 @@ We had a hackathon today where we created a RESTful API using all CRUD routes. M
 
 Having a rest day today so I haven't coded anything. In preparation for Kyle Simpson doing a talk at SoC on Monday I have watched his 'Keep Betting on JavaScript' talk from 2019 (which you can find on YouTube). The main takeaway I have is that, although, as a developer, we will work in small chunks, it's important to always keep the bigger picture in mind and think of the future implications of what we are building. There are a bunch of things he mentioned that I need to research (including, but not limited, to: eval, JQuery and strictmode). I really liked his emphasis on 'embracing what people can do' (emphasis on 'can') and his focus on making the web accessible, particularly by making pages work offline. I think I need to look into caching to understand more about how this is achieveable.  
 
-I've been back to my revision board and added a list of things I need to recap from this week: (error handling in express, rate limiting, Using HTTP status codes, Validating input with express, Evolution of HTTP, Cybersecurity, Code formatting: Prettier and ES Lint). These are all topics we split into groups to research on Thursday (my group researched Validating Input with Express) but I think I need to take the time to do some personal research on each as I can tell they are all important! Today I looked into CORS and added a page to my revision board. ![CORS](CORS.png)  
+I've been back to my revision board and added a list of things I need to recap from this week: (error handling in express, rate limiting, Using HTTP status codes, Validating input with express, Evolution of HTTP, Cybersecurity, Code formatting: Prettier and ES Lint). These are all topics we split into groups to research on Thursday (my group researched Validating Input with Express) but I think I need to take the time to do some personal research on each as I can tell they are all important! Today I looked into CORS and added a page to my revision board. ![CORS](CORS.png) 
+
+**Day 30**  
+
+Finished off the weekend recap test, which was similar to the Friday hackathon. Created a REST API with CRUD routes (create, read, update and delete) using a nested array of users as data source. Started bonus task, which was to start 'seperation of concerns' by using functions which then get imported into router. Got quite confused with middleware. Hoping to learn more this week!
 
 
 
