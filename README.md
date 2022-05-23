@@ -106,7 +106,15 @@ I've been back to my revision board and added a list of things I need to recap f
 
 **Day 30**  
 
-Finished off the weekend recap test, which was similar to the Friday hackathon. Created a REST API with CRUD routes (create, read, update and delete) using a nested array of users as data source. Started bonus task, which was to start 'seperation of concerns' by using functions which then get imported into router. Got quite confused with middleware. Hoping to learn more this week!
+Finished off the weekend recap test, which was similar to the Friday hackathon. Created a REST API with CRUD routes (create, read, update and delete) using a nested array of users as data source. Started bonus task, which was to start 'seperation of concerns' by using functions which then get imported into router. Got quite confused with middleware. Hoping to learn more this week!  
+
+**Day 31**  
+
+Returned to the bonus tasks from the weekend recap tasks and successfully implemented all of the model functions! We also had Kyle Simpson's talk today, which centered around 'Imposter Syndrome'.
+I learned:
+- 'If you wait until you're an expert, you've waited too long'. Meaning, it's better to show your work to others whilst you're on the journey of learning/creating. Their feedback will be handy!
+- 'Sometimes doing is the best way to learn'
+- 'Don't let lack of experience hold you back'.  
 
 
 
