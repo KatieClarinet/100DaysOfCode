@@ -116,6 +116,10 @@ I learned:
 - 'Sometimes doing is the best way to learn'
 - 'Don't let lack of experience hold you back'.  
 
+**Day 32**  
+
+After a brief introduction to SQL yesterday, today we started working through the Interactive Tutorial on SQL Bolt and also some (much harder!) questions this afternoon. It's been such a fastpaced day that I need to take time to go back to the questions from this morning and take them at my own pace. I got as far as understanding how to JOIN more than one table together and access data, but everything else is still a mystery to me...  
+
 
 
 
