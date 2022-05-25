@@ -120,6 +120,19 @@ I learned:
 
 After a brief introduction to SQL yesterday, today we started working through the Interactive Tutorial on SQL Bolt and also some (much harder!) questions this afternoon. It's been such a fastpaced day that I need to take time to go back to the questions from this morning and take them at my own pace. I got as far as understanding how to JOIN more than one table together and access data, but everything else is still a mystery to me...  
 
+**Day 33**  
+
+Another jam-packed day of learning!  
+
+Today we covered:
+- creating up a Heroku account - we will now use this when setting up databases
+- connecting our server to the database
+- using pg package 
+- using our new PostgreSQL skills to CREATE a new table and UPDATE it using data from our libs/data file 
+- reconfigure our functions so that they interact with the database 
+- enviroment variables (for telling express which port to listen to and to store our database connection details)
+- about Pools and how to use them (still a bit shaky on this)  
+
 
 
 
