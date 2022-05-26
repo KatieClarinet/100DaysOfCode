@@ -132,6 +132,11 @@ Today we covered:
 - reconfigure our functions so that they interact with the database 
 - enviroment variables (for telling express which port to listen to and to store our database connection details)
 - about Pools and how to use them (still a bit shaky on this)  
+  
+**Day 34**  
+
+We went into a lot more detail on how to connect our server to the database (using different methods to consolidate this).
+
 
 
 
