@@ -137,8 +137,10 @@ Today we covered:
 
 We went into a lot more detail on how to connect our server to the database (using different methods to consolidate this).
 
+**Day 35**  
 
-
-
-
-
+For the hackathon today we build a REST API using node.js, express and postgreSQL. 
+- created a data file with a nested array of our data and used scripts in our package.json to run: one for creating the table in heroku, one for populating the  table in heroku.
+- had functioning CRUD routes to manange requests and serve responses.
+- used environment variables to store our database credentials
+This was our first time putting everything we've learned this week into action and I was surprised at how well we did!  
