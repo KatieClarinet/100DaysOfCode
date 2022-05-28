@@ -144,3 +144,14 @@ For the hackathon today we build a REST API using node.js, express and postgreSQ
 - had functioning CRUD routes to manange requests and serve responses.
 - used environment variables to store our database credentials
 This was our first time putting everything we've learned this week into action and I was surprised at how well we did!  
+
+**Day 36**  
+
+Started the weekend recap work and so far I have:
+- set up a database on Heroku
+- used SQL querys to create and populate a table (from an array of data)
+- set up GET requests to search 'all', 'by id' and 'by query'
+- starting linking my routes up to the database rather than the array
+- I will continue with this tomorrow  
+
+
