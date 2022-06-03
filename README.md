@@ -154,4 +154,51 @@ Started the weekend recap work and so far I have:
 - starting linking my routes up to the database rather than the array
 - I will continue with this tomorrow  
 
+**Day 37**  
+
+Today I hooked my server up to the data in my postgreSQL database, rather than the array.  
+
+**Day 38**  
+
+Today we started learning about Software Testing. We were introduced to Jest and how to write simple tests for javascript functions including:
+- a function that modifies a number
+- a function that checks the length of an array
+- a function that apends an item to the end of an array (using spread operator)
+- a function that adds a key value pair to an object
+- a function that throws an error if the number passed to it is even  
+
+**Day 39**  
+
+Today we were introduced to Test Driven Development (TDD) and the three phases:
+- RED STAGE Create precise tests - the first one should fail
+- GREEN STAGE Correct the code - make the minimal changes needed to correct the code so that it will pass (this )
+- Refactor the code - once test runs successfully, check to see if you can optimize performance (but don't change the external behaviour of program)  
+
+We started work on a calculateScrabbleScore function and wrote tests for:
+- all alphabet letters entered singularly.  
+This was as far as I got in the workshop so I will return to complete the rest of the sections:
+- multiple letters
+- throwing an error if other characters are entered  
+
+In the afternoon we had a talk and demo session from Cypress (JavaScript tool for end to end testing) 
+
+**Day 40**  
+
+Morning  
+We installed Cypress and read through the docs  
+
+Afternoon  
+We learned about API endpoint testing using Jest and Supertest.  
+We practiced using Jest matchers to write tests checking whether a variable contains an object with a specific structure (each test had a more complex structure)  
+
+**Day 41**  
+
+We have no classes for 4 days now as it's the jubilee weekend.  
+
+Today I returned to the Jest workshop from Day 38 and added in a lot more tests I hadn't thought of - mostly if statements to check 'typeof' data entered.  
+
+
+
+
+
 
