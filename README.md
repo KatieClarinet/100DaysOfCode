@@ -196,6 +196,115 @@ We practiced using Jest matchers to write tests checking whether a variable cont
 We have no classes for 4 days now as it's the jubilee weekend.  
 
 Today I returned to the Jest workshop from Day 38 and added in a lot more tests I hadn't thought of - mostly if statements to check 'typeof' data entered.  
+  
+  **Day 42**
+
+**JEST**
+I went back to the TDD workshop from Day 39 and refactored my code for the calculateScrabbleScore function. Initially I had a written that expects a single letter as input and checks the score like this: 
+if (word.toLowerCase() === "a") {
+        return 1;
+    } 
+    else if (word.toLowerCase() === "d") {
+        return 2;
+    }
+    else if (word.toLowerCase() === "b" || "c" ) {
+        return 3;
+    }   
+     However, that was going to be very lengthy so I used regex to refactor it to this:
+if (arr[i].match(/[aeioulnrst]/ig)) {
+        count += 1;
+    } else if (arr[i].match(/[dg]/ig)) {
+        count += 2;
+    } else if (arr[i].match(/[bcmp]/ig)) {
+        count += 3;  
+
+Next I wrote a test for if the function received more than one letter, which failed. So I refactored my code to work with multiple letters or 'strings'. The step after this was the make the function throw an error if a non-alphabet letter was the input. My final code was:
+
+export function calculateScrabbleScore(word) {
+    var letters = /^[A-Za-z]+$/;
+if (word.match(letters)) {
+        let arr = Array.from(word);
+       let count = 0;  
+    for (let i = 0; i < word.length; i++) {
+    if (arr[i].match(/[aeioulnrst]/ig)) {
+        count += 1;
+    } else if (arr[i].match(/[dg]/ig)) {
+        count += 2;
+    } else if (arr[i].match(/[bcmp]/ig)) {
+        count += 3;
+    } else if (arr[i].match(/[fhvwy]/ig)) {
+        count += 4;
+    } else if (arr[i].match(/[k]/ig)) {
+        count += 5;
+    } else if (arr[i].match(/[jx]/ig)) {
+        count += 8;
+    } else if (arr[i].match(/[qz]/ig)) {
+        count += 10;
+    }
+    }
+return count;
+} else {
+    throw new Error(`Error, ${word} is not alphabet!`);
+}
+}
+calculateScrabbleScore("pet");  
+
+and my tests:
+
+describe('calculateScrabbleScore', () => {
+    test.each`
+      word     | expectedResult
+      ${'a'}   | ${1}
+      ${'e'}   | ${1}
+      ${'i'}   | ${1}
+      ${'o'}   | ${1}
+      ${'u'}   | ${1}
+      ${'l'}   | ${1}
+      ${'n'}   | ${1}
+      ${'r'}   | ${1}
+      ${'s'}   | ${1}
+      ${'t'}   | ${1}
+      ${'d'}   | ${2}
+      ${'g'}   | ${2}
+      ${'b'}   | ${3}
+      ${'c'}   | ${3}
+      ${'m'}   | ${3}
+      ${'p'}   | ${3}
+      ${'f'}   | ${4}
+      ${'h'}   | ${4}
+      ${'v'}   | ${4}
+      ${'w'}   | ${4}
+      ${'y'}   | ${4}
+      ${'k'}   | ${5}
+      ${'j'}   | ${8}
+      ${'x'}   | ${8}
+      ${'q'}   | ${10}
+      ${'z'}   | ${10}
+    `('converts $word to $expectedResult', ({ word, expectedResult }) => {
+      expect(calculateScrabbleScore(word)).toBe(expectedResult)
+    })
+  })
+
+  test("Given the string apple calculateScrabbleScore function returns the score",
+function(){
+    const word = "pet";
+    const expected = 5;
+    const actual = calculateScrabbleScore(word);
+    expect(actual).toBe(expected)
+});
+
+test('When given a character not in the alphabet , calculateScrabbleScore returns error', () => {
+    expect(() => {
+      throwErrorIfEven('*&7');
+    }).toThrow();
+  });
+
+  **CYPRESS**
+
+  Next I went back to the Cypress workshop from Day 40 and wrote some simple tests for an API, using:
+  - cy.visit to set the path to the website
+  - cy.get to select the CSS selector I wanted .should to check the contents
+
 
 
 
