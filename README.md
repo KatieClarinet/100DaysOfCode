@@ -303,8 +303,15 @@ test('When given a character not in the alphabet , calculateScrabbleScore return
 
   Next I went back to the Cypress workshop from Day 40 and wrote some simple tests for an API, using:
   - cy.visit to set the path to the website
-  - cy.get to select the CSS selector I wanted .should to check the contents
+  - cy.get to select the CSS selector I wanted .should to check the contents  
 
+**Day 43**  
+
+Went back to Supertest workshop from day 40 and wrote some tests for GET requests.  
+
+Then returned to the Rock, Paper, Scissors project from week 1 - made the game more complex by adding Lizard and Spock. Then made it pretty with CSS.
+
+[Rock Paper Scissors Game](https://github.com/KatieClarinet/RockPaperScissors)  
 
 
 
