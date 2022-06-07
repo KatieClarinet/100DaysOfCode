@@ -313,7 +313,18 @@ Then returned to the Rock, Paper, Scissors project from week 1 - made the game m
 
 [Rock Paper Scissors Game](https://github.com/KatieClarinet/RockPaperScissors)  
 
+**Day 44**  
 
+Intro to React. We learned about:
+- components
+- immutable code
+- the virtual DOM
+  
+**Day 45**  
+
+Intro to Babel (a transpiler (translater) which turns our JSX back to regular JS).  
+We learned how to create a button component and a list component.  
+Spent some time this evening going through this Tutorial: Intro to React https://reactjs.org/tutorial/tutorial.html
 
 
 
