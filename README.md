@@ -324,8 +324,21 @@ Intro to React. We learned about:
 
 Intro to Babel (a transpiler (translater) which turns our JSX back to regular JS).  
 We learned how to create a button component and a list component.  
-Spent some time this evening going through this Tutorial: Intro to React https://reactjs.org/tutorial/tutorial.html
+Spent some time this evening going through this Tutorial: Intro to React https://reactjs.org/tutorial/tutorial.html  
 
+**Day 46**  
+
+We continued learning how to use React today. I've been reading up on State and Props, to try and understand them better.
+State:  
+- an updatable structure containing info/data about a dynamic component
+- when the data inside component(s) changes, State re-renders the app to reflect the changes
+- there are 4 main types of State (local, global, server, URL)  
+
+Props:
+- arguments that you pass to React components
+- can be used as a method to pass data from one component to another
+- passed to the component in the same manner as arguments are passed in a function
+- use the same syntax as HTML attributes
 
 
 
