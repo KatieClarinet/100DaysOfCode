@@ -338,7 +338,24 @@ Props:
 - arguments that you pass to React components
 - can be used as a method to pass data from one component to another
 - passed to the component in the same manner as arguments are passed in a function
-- use the same syntax as HTML attributes
+- use the same syntax as HTML attributes  
+
+**Day 47**  
+
+We had a mindset session and talks from industry professionals this morning, then spent the afternoon learning about updating immutable objects. The JavaScript methods we used were:
+- the split operator
+- slice()
+
+I just completed a workshop where I wrote functions that immutably:
+- add an item to an array at the beginning or at the end
+- insert an item at a specific position/index within an array
+- replace an item at a specific position/index within an array
+- remove an item at a specific position/index within an array
+- update a specific value in an object
+ 
+
+
+
 
 
 
