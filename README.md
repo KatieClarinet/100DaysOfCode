@@ -352,7 +352,31 @@ I just completed a workshop where I wrote functions that immutably:
 - replace an item at a specific position/index within an array
 - remove an item at a specific position/index within an array
 - update a specific value in an object
- 
+
+**Day 48**  
+
+The hackathon task today was to create a To Do List app using React. In short: my pair didn't have much luck with this. We got so stuck on how to start that we ended up using a tutorial for guidance. In hindsight, this was a bad idea as we ended up following it and just copying the code without understanding it. I want to take the time to really study React and try this again sometime.  
+
+**Day 49**
+
+Spent a few hours today reading the React docs and writing up notes.  
+
+**Day 50**  
+
+I continued studying the React docs today and made a start on weekend recap tasks:
+- I created a blog post with the following structure (title, author, datePosted, content, imageUrl)
+- I added a hard coded comment section
+
+I then went back to the hackathon from Friday (To Do List) and read up some more on how to approach this. I created an input box and a button but didn't get them linked up yet!  
+I need to work out how to get the user input to display on screen
+
+**Day 51**  
+
+First day of our second week learning React. We covered some more complex topics this afternoon:
+- useEffect (which I understand is a last resort that should only be used if event handlers aren't appropriate)
+- cleanup and when to use it  
+
+This evening I've been studying props in more detail. I've had some issues understanding the relationship between child and parent components and how props are passed so have been studying examples.  
 
 
 
