@@ -378,6 +378,11 @@ First day of our second week learning React. We covered some more complex topics
 
 This evening I've been studying props in more detail. I've had some issues understanding the relationship between child and parent components and how props are passed so have been studying examples.  
 
+**Day 52**  
+
+Today we learned about useReducer, a hook that can be used in react - it lets you move the state update logic from event handlers into a single function outside of your component.
+
+
 
 
 
