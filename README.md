@@ -381,7 +381,15 @@ This evening I've been studying props in more detail. I've had some issues under
 **Day 52**  
 
 Today we learned about useReducer, a hook that can be used in react - it lets you move the state update logic from event handlers into a single function outside of your component.
+  
+**Day 53**  
 
+We were introduced to testing in react today, using Jest which is built in.  
+
+**Day54**  
+
+Had a talk about RESTful APIs today from developers at Talis. Then spent the afternoon creating presentations. My group focused on Sprints and Planning Sprints.  
+Spent my evening reading up on Props and State in React.
 
 
 
