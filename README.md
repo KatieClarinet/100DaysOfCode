@@ -386,10 +386,27 @@ Today we learned about useReducer, a hook that can be used in react - it lets yo
 
 We were introduced to testing in react today, using Jest which is built in.  
 
-**Day54**  
+**Day 54**  
 
 Had a talk about RESTful APIs today from developers at Talis. Then spent the afternoon creating presentations. My group focused on Sprints and Planning Sprints.  
-Spent my evening reading up on Props and State in React.
+Spent my evening reading up on Props and State in React.  
+
+**Day 55**  
+
+The hackathon task today was to create a react app that used an api. In my pair we decided to use a cocktail API. We used Miro to plan out our app. We used the disney ideation process (dreamer, realist and critic) and came up with this MVP:
+- a random button that when pressed generates a new cocktail recipe
+- a search bar that takes the input and returns the cocktail recipe searched for.  
+
+We came up with various challenges during the day - a big one being how to access the data inside the API as it was an object containing another object nested inside. We managed to go as far as getting the recipe for a cocktail we searched for to appear in the console, but didn't have time to progress further.  
+
+**Day 56**  
+
+I wanted to practice something similar to the hackathon but with some smaller goals, so that I could hopefully improve my confidence. I picked an API with a simpler structure, where the data is just stored in an array, not nested. I created a button that, when clicked, generated a random quote from the API. For this I used the useState hook.  
+
+**Day 57**  
+
+I continued working with the project I created yesterday, the [Ron Swanson Quote Generator](https://github.com/KatieClarinet/RonSwansonQuotes). Today I added a search box and button so that when a word is entered, any quotes that contain the word are displayed on screen.
+
 
 
 
