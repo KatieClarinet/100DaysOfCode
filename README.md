@@ -405,7 +405,57 @@ I wanted to practice something similar to the hackathon but with some smaller go
 
 **Day 57**  
 
-I continued working with the project I created yesterday, the [Ron Swanson Quote Generator](https://github.com/KatieClarinet/RonSwansonQuotes). Today I added a search box and button so that when a word is entered, any quotes that contain the word are displayed on screen.
+I continued working with the project I created yesterday, the [Ron Swanson Quote Generator](https://github.com/KatieClarinet/RonSwansonQuotes). Today I added a search box and button so that when a word is entered, any quotes that contain the word are displayed on screen.  
+
+**Day 57 - (Day 1 of Project Week)**  
+
+We were put into groups of 4 this morning for our week long project week. The brief is to create a full-stack application which we will present and demonstrate on Friday. The application should be something that will enhance the experience of bootcampers on the remote School of Code journey.  
+
+Manifesto: 
+We each wrote three answers to the question 'what makes a good team' and used dot voting to select the three most popular answers:
+- Respect (everyone's) ideas are equal
+- Common goal to work towards
+- Take time to support one another and talk through concepts/ideas
+
+We did the same for our recovery plan, and here are the three with the most votes:
+- LISTEN: First take time for each person to explain they idea and make sure everyone puts their idea aside to properly listen
+- Decisions made in group space & time; keep to an extra work plan?
+- Stand-ups twice a day to talk about plans and progress to make sure everyone keeps updated and on the same page
+
+Planning:
+We started by listing all of the problems/issues we have personally faced, then grouping into the following categories:
+
+Work/Life Balance:
+(mental overload, lack of social life outside of course, working long hours, no breaks, hard to switch off)
+
+Keeping up:
+(stress of not finishing tasks/getting behind, imposter syndrome, keeping track of code snippets/notes/syntax, not knowing how we're doing in comparison to others)
+
+Technical Challenges:
+(not grasping concepts, mental overload, struggling to keep up with pace, remembering syntax)
+
+Ideas:
+
+We came up with two app ideas that might solve some of these problems:
+
+Social Meetup App
+(could include map of where other bootcampers are, organised social events, way of checking in with friends)
+
+Technical/Code Snippets App
+(save concepts into folders to revisit, no need to trawl through docs, presented simply to reduce cognitive overload, copy to clipboard)
+
+As a group we voted to work with the Technical/Code Snippets App. Our Minimum Viable Product:
+- Input Box (search)
+- Search Button
+- Retrieves info searched for and displays result
+
+We split into two groups:
+- one to create a high level plan for the week
+- one to do UX reseach, user stories and user journey
+
+Retro:
+We used the '4 Ls' - liked, learned, longed for and lacked. We will do this each day to reflect on how we worked as a team. 
+
 
 
 
