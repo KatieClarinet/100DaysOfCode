@@ -407,7 +407,7 @@ I wanted to practice something similar to the hackathon but with some smaller go
 
 I continued working with the project I created yesterday, the [Ron Swanson Quote Generator](https://github.com/KatieClarinet/RonSwansonQuotes). Today I added a search box and button so that when a word is entered, any quotes that contain the word are displayed on screen.  
 
-**Day 57 - (Day 1 of Project Week)**  
+**Day 58 - (Day 1 of Project Week)**  
 
 We were put into groups of 4 this morning for our week long project week. The brief is to create a full-stack application which we will present and demonstrate on Friday. The application should be something that will enhance the experience of bootcampers on the remote School of Code journey.  
 
@@ -454,7 +454,31 @@ We split into two groups:
 - one to do UX reseach, user stories and user journey
 
 Retro:
-We used the '4 Ls' - liked, learned, longed for and lacked. We will do this each day to reflect on how we worked as a team. 
+We used the '4 Ls' - liked, learned, longed for and lacked. We will do this each day to reflect on how we worked as a team.
+
+**Days 59, 60 and 61 (Coding Days of Project Week)**  
+
+We build our first full stack app! I worked on the back end, using node.js, express and PostgreSQL.
+Initially we created a local mock data file so that the front end could use this to link up with the search input.
+Then we created scripts to create, populate and drop a table (hosted on Heroku).
+Then created the following CRUD routes:
+- GET all
+- GET by title
+- POST
+- DELETE
+  
+
+  **Day 62**  
+  We spent the morning reflecting on our project and planning our presentation which we delivered in the afternoon to some industry judges.  
+
+**Day 63**
+
+We learned about Code Reviews, and practiced this by reviewing another team's code! In the evening I played around with React and created a dynamic search bar.
+
+**Day 64**  
+
+Today we learned about Documenting our Code. I also did a few CodeWars - I'm almost at 6kyu so hoping to get there by the end of the week!
+
 
 
 
