@@ -458,7 +458,7 @@ We used the '4 Ls' - liked, learned, longed for and lacked. We will do this each
 
 **Days 59, 60 and 61 (Coding Days of Project Week)**  
 
-We build our first full stack app! I worked on the back end, using node.js, express and PostgreSQL.
+We built our first full stack app! I worked on the back end, using node.js, express and PostgreSQL.
 Initially we created a local mock data file so that the front end could use this to link up with the search input.
 Then we created scripts to create, populate and drop a table (hosted on Heroku).
 Then created the following CRUD routes:
@@ -466,10 +466,9 @@ Then created the following CRUD routes:
 - GET by title
 - POST
 - DELETE
-  
 
   **Day 62**  
-  We spent the morning reflecting on our project and planning our presentation which we delivered in the afternoon to some industry judges.  
+We spent the morning reflecting on our project and planning our presentation, which we delivered in the afternoon to some industry judges.  
 
 **Day 63**
 
@@ -477,7 +476,45 @@ We learned about Code Reviews, and practiced this by reviewing another team's co
 
 **Day 64**  
 
-Today we learned about Documenting our Code. I also did a few CodeWars - I'm almost at 6kyu so hoping to get there by the end of the week!
+Today we learned about Documenting our Code, then put this into practice by adding a readme to our project. The main principles we learned were:
+- focus on what the reader needs to know
+- write less (and make sure it's structured)
+- only write what you can commit to maintaining
+
+This evening I completed a few CodeWars - I'm almost at 6kyu so hoping to get there by the end of the week!  
+
+**Day 65**  
+
+We continued with the process of documenting our code, and also started refactoring it. As part of the refactoring process we:
+- created a component called 'home' and moved code that was inside our App component into that, so that all that now happens is that other components are rendered inside app - it looks a lot neater now
+- renamed variables so that their names make sense
+- added comments to a few areas that would need context to understand
+- deleted any imports that we were no longer using
+
+In the afternoon we worked with other groups to explain our refactoring process and hear about theirs.
+
+**Day 66**  
+
+We started learning about user authentication and authorisation and the pros/cons of implementing it ourselves vs via a third party.
+In the evening I returned to the Ron Swanson Quotes app I'm working on and used React Router to add another page, and moved the search component so that it shows up there.  
+
+**Days 67 and 68**  
+
+Today we used Auth0 to add:
+- user log in
+- user log out
+- display user info when logged in  
+
+I also recapped this over the weekend and learned how to use an access token.
+
+**Day 69**  
+
+I tried to add some additional functionality to the dynamic search bar I created the other day. I wanted to get it so that when the list items display they can be clicked on and then render another displaying more relevant information. I didn't have much luck with this and also made a mistake where I forgot to commit to GitHub so lost some work(!) I then followed this tutorial online, but left out the styling: https://medium.com/geekculture/create-a-simple-search-component-in-react-js-using-react-hooks-710c1dfe8b58  
+
+**Day 70**  
+
+Today we learned how to deploy a react app using Netlify!
+This evening I looked through various component libraries and experimented with using Tachyons. I also want to try out Bootstrap and Material Design
 
 
 
