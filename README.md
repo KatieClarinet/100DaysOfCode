@@ -514,7 +514,11 @@ I tried to add some additional functionality to the dynamic search bar I created
 **Day 70**  
 
 Today we learned how to deploy a react app using Netlify!
-This evening I looked through various component libraries and experimented with using Tachyons. I also want to try out Bootstrap and Material Design
+This evening I looked through various component libraries and experimented with using Tachyons. I also want to try out Bootstrap and Material Design  
+
+**Day 71**  
+
+We deployed an app today. The back end using Heroku, then the front end using Netlify (like yesterday). We then connected front and back end. 
 
 
 
