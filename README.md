@@ -520,6 +520,14 @@ This evening I looked through various component libraries and experimented with 
 
 We deployed an app today. The back end using Heroku, then the front end using Netlify (like yesterday). We then connected front and back end. 
 
+**Day 72**  
+
+This morning we learned about context in react, and workng in groups to write a guide to state, props and context. This afternoon we watched a demo on react custom hooks, then started a workshop on how to use them.  
+
+**Day 73**  
+
+We had a demo from Couchbase today, which was excited as I can see how use it is. The session was quite past paced so I'm hoping to return to the workshop we were given at the end of the day and spend some more time getting to grips with it.  
+
 
 
 
