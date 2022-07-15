@@ -526,7 +526,27 @@ This morning we learned about context in react, and workng in groups to write a 
 
 **Day 73**  
 
-We had a demo from Couchbase today, which was excited as I can see how use it is. The session was quite past paced so I'm hoping to return to the workshop we were given at the end of the day and spend some more time getting to grips with it.  
+We had a demo from Couchbase today, which was excited as I can see how use it is. The session was quite past paced so I'm hoping to return to the workshop we were given at the end of the day and spend some more time getting to grips with it.
+
+**Day 74**  
+
+We were introduced to AWS today, and started using Amplify to deploy a react app.  
+
+**Day 75**  
+
+Been working on my book reviews app. Created and populated a database hosted on Heroku, and got this connected to the front end, but the data isn't displaying how I want it yet.  
+
+**Day 76**  
+
+Today we tried out component libraries. In my pair we were given Headless UI. Unfortunately I'm not a fan as the components are not styled. However, they do have some good aria tags so I can see how it might be useful in certain situations.  
+
+**Days 77 - 78**  
+
+In bootcamp today we have been recapping some principles of React. In the evenings I have been working on my book reviews app and have now got the data rendering properly on screen (from the backend).  
+
+**Day 79**  
+
+Today was our last hackathon of the bootcamp as next week we start our final (four week) project! We created a very simple react app where the user can search a small list of recipes. We started building a heroku backend, but hit an error of 'self certified certificate' which turned out to be because we had duplicated the pool.  
 
 
 
