@@ -562,7 +562,11 @@ I didn't get too much done today because of the heatwave! I started on wireframe
 
 **Day 83**
 
+Today we started our 4 week Final Project. I'm in a team of 6. We wrote our manifesto including 'what makes a good team' and 'how we will handle conflict if it arises' by using sticky notes on Jamboard, which we then dot voted on.  
 
+Our project brief is to create an app that solves a problem. It can be any problem in the world. We initally outlined high level problems, such as poverty, access to education, hunger etc and brainstormed these on draw.io to. We had a lot of ideas at this stage so narrowed it down by moving our favourite ideas onto a Miro board (there were three favourites in total: an app that lets the user find all nearby Electrical Vehicle Chargers, a fitness app, and a 'grow your own food app').  
+
+We went through the Disney Ideation process (dreamer, realist and critic rooms) with these ideas and looked into APIs that would help us to create the Electric Vehicle Charging app. That is currently our favourite idea, but we will continue researching it tomorrow to see how viable it is.  
 
 
 
