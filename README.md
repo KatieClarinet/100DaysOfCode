@@ -542,15 +542,25 @@ Today we tried out component libraries. In my pair we were given Headless UI. Un
 
 **Days 77 - 78**  
 
-In bootcamp today we have been recapping some principles of React. In the evenings I have been working on my book reviews app and have now got the data rendering properly on screen (from the backend).  
+In bootcamp we have been recapping some principles of React. In the evenings I have been working on my book reviews app and have now got the data rendering properly on screen (from the backend).  
 
 **Day 79**  
 
 Today was our last hackathon of the bootcamp as next week we start our final (four week) project! We created a very simple react app where the user can search a small list of recipes. We started building a heroku backend, but hit an error of 'self certified certificate' which turned out to be because we had duplicated the pool.  
 
+**Days 80 - 81**  
 
+Over the weekend I've been working on my Book Reviews Project. I've been having an issue where, the list items display and, when selected, on the one list item disappears. However, what I wanted to happen is for all list items to disappear. In order for this to work, I realise I need to lift state up into a higher component. So I've been playing around with this (not yet successfully!)  
 
+**Day 82**  
 
+Today was supposed to be Day 1 of our 4 week Final Project. Howver, due to the heatwave this has now been postponed until Wednesday. Instead, I spent the day on my portfolio. I created a React App and coded the home page. I wanted to have a moving background, of falling cherry blossoms. I couldn't find quite the effect I was looking for, so I experimented with a few TS Particles, and adjusted the colours and some specifics of one to get it as close as I could.  
+
+**Day 82**  
+
+I didn't get too much done today because of the heatwave! I started on wireframes (using Figma) for the 'About' and 'Projects' sections of my portfolio. I also had a meeting with my mentor about my Book Reviews App. I realised I was making the functionality too complex, by adding the list and having the items clickable. It's simpler to keep it with the reviews just showing once the user begins typing, as the dynamic search bar filters the results anyway. Hoping to deploy this soon so I get practice doing so, and then I can also link to it from my portfolio.  
+
+**Day 83**
 
 
 
