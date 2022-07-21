@@ -201,6 +201,8 @@ Today I returned to the Jest workshop from Day 38 and added in a lot more tests 
 
 **JEST**
 I went back to the TDD workshop from Day 39 and refactored my code for the calculateScrabbleScore function. Initially I had a written that expects a single letter as input and checks the score like this: 
+
+```
 if (word.toLowerCase() === "a") {  
         return 1;  
     }   
@@ -217,9 +219,11 @@ if (word.toLowerCase() === "a") {
         count += 2;  
     } else if (arr[i].match(/[bcmp]/ig)) {  
         count += 3;    
-  
+  ```
+
 Next I wrote a test for if the function received more than one letter, which failed. So I refactored my code to work with multiple letters or 'strings'. The step after this was the make the function throw an error if a non-alphabet letter was the input. My final code was:
-  
+
+```  
 export function calculateScrabbleScore(word) {  
     var letters = /^[A-Za-z]+$/;  
 if (word.match(letters)) {  
@@ -248,9 +252,11 @@ return count;
 }  
 }  
 calculateScrabbleScore("pet");  
+```
   
 and my tests:  
   
+  ```
 describe('calculateScrabbleScore', () => {  
     test.each`  
       word     | expectedResult  
@@ -298,6 +304,7 @@ test('When given a character not in the alphabet , calculateScrabbleScore return
       throwErrorIfEven('*&7');  
     }).toThrow();  
   });  
+```
 
   **CYPRESS**
 
