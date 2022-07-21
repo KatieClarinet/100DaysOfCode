@@ -4,29 +4,29 @@ Journal of my 100 days of code
 So far I've been tracking my '100 days of code' on twitter, but have decided to do so on here too so that I can delve into more detail!  
 I'm already up to day 17 (my favourite number!) so will continue from there onwards...  
 
-##Day 17
+## Day 17
 
 Today I returned to the hackathon from Day 9 at school of code.  
 We used an API to retrieve trivia questions, and create a simple quiz.  
 Today I added a container and experimented with CSS to style it.
 
-[Media Trivia Game:](https://github.com/KatieClarinet/Branch-of-fetch-hackathon---Trivia-Game)
+[Media Trivia Game](https://github.com/KatieClarinet/Branch-of-fetch-hackathon---Trivia-Game)
 
-**Day 18**
+## Day 18
 
 Some of our tasks today included experimenting with CSS variables, and working out how to add a 'night mode' toggle button.  
     
-I've made a quick repo here to test my new skills: https://github.com/KatieClarinet/CSSVariables_ToggleDarkMode
+I've made a quick repo here to test my new skills: [Toggle Dark Mode](https://github.com/KatieClarinet/CSSVariables_ToggleDarkMode)
 
-**Day 19**
+## Day 19
 
 I've had a real 'everything going wrong' kind of day today. I thought I'd worked out how to add some game scores to the Music Trivia game, but my code isn't working - so I shall return to this with a fresh perspective in a day or so.  
   
 At SoC today we were introduced to 'Coolors' website, so I have used a premade palette to jazz up the Music Trivia game. A small accomplishment, but hopefully lots of small improvements will add up to big ones soon.  
 
-Here's the link: https://github.com/KatieClarinet/Branch-of-fetch-hackathon---Trivia-Game
+Here's the [link](https://github.com/KatieClarinet/Branch-of-fetch-hackathon---Trivia-Game)
 
-**Days 20 and 21**
+## Days 20 and 21
 
 Yesterday I spent the evening at brum.js meeting some of my fellow SoC bootcampers, so I didn't do any coding after classes but I had a great experience!  
   
@@ -39,12 +39,11 @@ Today was the last day of UX/UI week at SoC and we had to design a business land
 - Writing a code plan  
   
 This evening I decided to code the page and here's where I've got to:  
-  
-https://github.com/KatieClarinet/CatchLandingPage  
+[Catch Landing Page](https://github.com/KatieClarinet/CatchLandingPage)
   
 I still need to center the text in the footer boxes and tweak a few things, but it's the best CSS work I've done so far, and acheived in just a few hours so that's progress!  
   
-  **Day 22**  
+## Day 22
   
 *Weekend Soc Tasks*  
 The task this weekend is to put our new UX/UI skills into practice and research, design and code a Portfolio page. I used Miro to start a basic plan, then created a survey using Google Forms which I've sent out to as many devs as I can. I'll check how many responces I have tomorrow then continue my planning based on survey responses.  
@@ -56,23 +55,23 @@ It's been really bugging me that I never fixed my RPS game so that it tracks the
 I went back to my Trivia Game to work on how to track the score and spent a long time playing around with various ways to increment the scores. Eventually I took a piece of paper and drew a map of where I want each function/loop/button to lead, and then drew out a map of what my code was actually doing. I realised that I had all three buttons calling the same function (oops!) and that my code was not in the right order. Happy to say this is now fixed and the game score works!
 [Music Trivia Game](https://github.com/KatieClarinet/Branch-of-fetch-hackathon---Trivia-Game)
 
-**Day 23**
+## Day 23
 
 I continued with the SoC weekend task. Using the data from my survey I created user stories and personas. I made an inspiration board and had a think about what I liked most: bold colours and minimalist designs! I then created low fi and high fi wireframes (the hi fi is a work in progress).  
   
-  **Day 24**  
+## Day 24
     
-This morning I coded my website, copying my High Fideluty Wireframe [My Website](https://github.com/SchoolOfCode/w3_recap-task-KatieClarinet)  
+This morning I coded my website, copying my High Fidelity Wireframe [My Website](https://github.com/SchoolOfCode/w3_recap-task-KatieClarinet)  
 It's pretty simple at the moment but I will add to it once I have some projects ready.  
 
   At SoC today we did the W3 tests for HTML, CSS and JavaScript and I scored 77%, 88% and 88% respectively. We then had an introduction to Node and made sure we had it installed. We wrote a few functions using node rather than the browser, which was a new experience!  
   I'm currently a bit confused on how to export/import on node so will return to work on this tomorrow.  
 
-**Day 25**
+## Day 25
 
 Today we used node to access the Express package and learned how to write a (very simple!) server. I don't have much to show for today's work, but I know have a much deeper understanding of how APIs work. Hopefully will build something in the next few days that I can link here.  
 
-**Day 26**  
+## Day 26 
 
 We learned about using Express today, including how to make seperate routers:
 - a router that listens for a specific id
@@ -84,7 +83,7 @@ Notable thing(s) I learned:
 This evening I read up on RESTful APIs and created a revision board on miro. 
 ![Revision Board](Revision_Board.png)  
 
-**Day 27**  
+## Day 27 
 
 This morning we continued our learning of Express and used the GET and POST methods to view/add to our data (an array of books). We used an API called postman rather than our browser.  
 
@@ -94,21 +93,21 @@ In the afternoon we split into groups and researched various aspects of Express.
 - it removes unsafe characters from user input
 - this provides defense against attacks  
 
-**Day 28**
+## Day 28
 
 We had a hackathon today where we created a RESTful API using all CRUD routes. My pair were successful with this but I feel like my knowledge is still pretty shaky so I'm hoping to research these methods/routes a lot more! Our weekend tasks are along the same vein but with some bonus tasks to link up to the front end - so hopefully I can solidify my knowledge with these... stay tuned.  
 
-**Day 29**  
+## Day 29 
 
 Having a rest day today so I haven't coded anything. In preparation for Kyle Simpson doing a talk at SoC on Monday I have watched his 'Keep Betting on JavaScript' talk from 2019 (which you can find on YouTube). The main takeaway I have is that, although, as a developer, we will work in small chunks, it's important to always keep the bigger picture in mind and think of the future implications of what we are building. There are a bunch of things he mentioned that I need to research (including, but not limited, to: eval, JQuery and strictmode). I really liked his emphasis on 'embracing what people can do' (emphasis on 'can') and his focus on making the web accessible, particularly by making pages work offline. I think I need to look into caching to understand more about how this is achieveable.  
 
 I've been back to my revision board and added a list of things I need to recap from this week: (error handling in express, rate limiting, Using HTTP status codes, Validating input with express, Evolution of HTTP, Cybersecurity, Code formatting: Prettier and ES Lint). These are all topics we split into groups to research on Thursday (my group researched Validating Input with Express) but I think I need to take the time to do some personal research on each as I can tell they are all important! Today I looked into CORS and added a page to my revision board. ![CORS](CORS.png) 
 
-**Day 30**  
+## Day 30
 
 Finished off the weekend recap test, which was similar to the Friday hackathon. Created a REST API with CRUD routes (create, read, update and delete) using a nested array of users as data source. Started bonus task, which was to start 'seperation of concerns' by using functions which then get imported into router. Got quite confused with middleware. Hoping to learn more this week!  
 
-**Day 31**  
+## Day 31 
 
 Returned to the bonus tasks from the weekend recap tasks and successfully implemented all of the model functions! We also had Kyle Simpson's talk today, which centered around 'Imposter Syndrome'.
 I learned:
@@ -116,11 +115,11 @@ I learned:
 - 'Sometimes doing is the best way to learn'
 - 'Don't let lack of experience hold you back'.  
 
-**Day 32**  
+## Day 32  
 
 After a brief introduction to SQL yesterday, today we started working through the Interactive Tutorial on SQL Bolt and also some (much harder!) questions this afternoon. It's been such a fastpaced day that I need to take time to go back to the questions from this morning and take them at my own pace. I got as far as understanding how to JOIN more than one table together and access data, but everything else is still a mystery to me...  
 
-**Day 33**  
+## Day 33  
 
 Another jam-packed day of learning!  
 
@@ -133,11 +132,11 @@ Today we covered:
 - enviroment variables (for telling express which port to listen to and to store our database connection details)
 - about Pools and how to use them (still a bit shaky on this)  
   
-**Day 34**  
+## Day 34  
 
 We went into a lot more detail on how to connect our server to the database (using different methods to consolidate this).
 
-**Day 35**  
+## Day 35  
 
 For the hackathon today we build a REST API using node.js, express and postgreSQL. 
 - created a data file with a nested array of our data and used scripts in our package.json to run: one for creating the table in heroku, one for populating the  table in heroku.
@@ -145,7 +144,7 @@ For the hackathon today we build a REST API using node.js, express and postgreSQ
 - used environment variables to store our database credentials
 This was our first time putting everything we've learned this week into action and I was surprised at how well we did!  
 
-**Day 36**  
+## Day 36  
 
 Started the weekend recap work and so far I have:
 - set up a database on Heroku
@@ -154,11 +153,11 @@ Started the weekend recap work and so far I have:
 - starting linking my routes up to the database rather than the array
 - I will continue with this tomorrow  
 
-**Day 37**  
+## Day 37  
 
 Today I hooked my server up to the data in my postgreSQL database, rather than the array.  
 
-**Day 38**  
+## Day 38  
 
 Today we started learning about Software Testing. We were introduced to Jest and how to write simple tests for javascript functions including:
 - a function that modifies a number
@@ -167,7 +166,7 @@ Today we started learning about Software Testing. We were introduced to Jest and
 - a function that adds a key value pair to an object
 - a function that throws an error if the number passed to it is even  
 
-**Day 39**  
+## Day 39  
 
 Today we were introduced to Test Driven Development (TDD) and the three phases:
 - RED STAGE Create precise tests - the first one should fail
@@ -182,24 +181,24 @@ This was as far as I got in the workshop so I will return to complete the rest o
 
 In the afternoon we had a talk and demo session from Cypress (JavaScript tool for end to end testing) 
 
-**Day 40**  
+## Day 40  
 
-Morning  
+**Morning**  
 We installed Cypress and read through the docs  
 
-Afternoon  
+**Afternoon**  
 We learned about API endpoint testing using Jest and Supertest.  
 We practiced using Jest matchers to write tests checking whether a variable contains an object with a specific structure (each test had a more complex structure)  
 
-**Day 41**  
+## Day 41
 
 We have no classes for 4 days now as it's the jubilee weekend.  
 
 Today I returned to the Jest workshop from Day 38 and added in a lot more tests I hadn't thought of - mostly if statements to check 'typeof' data entered.  
   
-  **Day 42**
+## Day 42
 
-**JEST**
+**JEST**  
 I went back to the TDD workshop from Day 39 and refactored my code for the calculateScrabbleScore function. Initially I had a written that expects a single letter as input and checks the score like this: 
 
 ```
@@ -305,14 +304,13 @@ test('When given a character not in the alphabet , calculateScrabbleScore return
     }).toThrow();  
   });  
 ```
-
-  **CYPRESS**
+**CYPRESS**
 
   Next I went back to the Cypress workshop from Day 40 and wrote some simple tests for an API, using:
   - cy.visit to set the path to the website
   - cy.get to select the CSS selector I wanted .should to check the contents  
 
-**Day 43**  
+## Day 43
 
 Went back to Supertest workshop from day 40 and wrote some tests for GET requests.  
 
@@ -320,20 +318,20 @@ Then returned to the Rock, Paper, Scissors project from week 1 - made the game m
 
 [Rock Paper Scissors Game](https://github.com/KatieClarinet/RockPaperScissors)  
 
-**Day 44**  
+## Day 44
 
 Intro to React. We learned about:
 - components
 - immutable code
 - the virtual DOM
   
-**Day 45**  
+## Day 45 
 
 Intro to Babel (a transpiler (translater) which turns our JSX back to regular JS).  
 We learned how to create a button component and a list component.  
 Spent some time this evening going through this Tutorial: Intro to React https://reactjs.org/tutorial/tutorial.html  
 
-**Day 46**  
+## Day 46 
 
 We continued learning how to use React today. I've been reading up on State and Props, to try and understand them better.
 State:  
@@ -347,7 +345,7 @@ Props:
 - passed to the component in the same manner as arguments are passed in a function
 - use the same syntax as HTML attributes  
 
-**Day 47**  
+## Day 47
 
 We had a mindset session and talks from industry professionals this morning, then spent the afternoon learning about updating immutable objects. The JavaScript methods we used were:
 - the split operator
@@ -360,15 +358,15 @@ I just completed a workshop where I wrote functions that immutably:
 - remove an item at a specific position/index within an array
 - update a specific value in an object
 
-**Day 48**  
+## Day 48 
 
 The hackathon task today was to create a To Do List app using React. In short: my pair didn't have much luck with this. We got so stuck on how to start that we ended up using a tutorial for guidance. In hindsight, this was a bad idea as we ended up following it and just copying the code without understanding it. I want to take the time to really study React and try this again sometime.  
 
-**Day 49**
+## Day 49
 
 Spent a few hours today reading the React docs and writing up notes.  
 
-**Day 50**  
+## Day 50  
 
 I continued studying the React docs today and made a start on weekend recap tasks:
 - I created a blog post with the following structure (title, author, datePosted, content, imageUrl)
@@ -377,28 +375,29 @@ I continued studying the React docs today and made a start on weekend recap task
 I then went back to the hackathon from Friday (To Do List) and read up some more on how to approach this. I created an input box and a button but didn't get them linked up yet!  
 I need to work out how to get the user input to display on screen
 
-**Day 51**  
+## Day 51  
 
-First day of our second week learning React. We covered some more complex topics this afternoon:
+First day of our second week learning React.  
+We covered some more complex topics this afternoon:
 - useEffect (which I understand is a last resort that should only be used if event handlers aren't appropriate)
 - cleanup and when to use it  
 
 This evening I've been studying props in more detail. I've had some issues understanding the relationship between child and parent components and how props are passed so have been studying examples.  
 
-**Day 52**  
+## Day 52 
 
 Today we learned about useReducer, a hook that can be used in react - it lets you move the state update logic from event handlers into a single function outside of your component.
   
-**Day 53**  
+## Day 53
 
 We were introduced to testing in react today, using Jest which is built in.  
 
-**Day 54**  
+## Day 54  
 
 Had a talk about RESTful APIs today from developers at Talis. Then spent the afternoon creating presentations. My group focused on Sprints and Planning Sprints.  
 Spent my evening reading up on Props and State in React.  
 
-**Day 55**  
+## Day 55  
 
 The hackathon task today was to create a react app that used an api. In my pair we decided to use a cocktail API. We used Miro to plan out our app. We used the disney ideation process (dreamer, realist and critic) and came up with this MVP:
 - a random button that when pressed generates a new cocktail recipe
@@ -406,19 +405,20 @@ The hackathon task today was to create a react app that used an api. In my pair 
 
 We came up with various challenges during the day - a big one being how to access the data inside the API as it was an object containing another object nested inside. We managed to go as far as getting the recipe for a cocktail we searched for to appear in the console, but didn't have time to progress further.  
 
-**Day 56**  
+## Day 56  
 
 I wanted to practice something similar to the hackathon but with some smaller goals, so that I could hopefully improve my confidence. I picked an API with a simpler structure, where the data is just stored in an array, not nested. I created a button that, when clicked, generated a random quote from the API. For this I used the useState hook.  
 
-**Day 57**  
+## Day 57  
 
 I continued working with the project I created yesterday, the [Ron Swanson Quote Generator](https://github.com/KatieClarinet/RonSwansonQuotes). Today I added a search box and button so that when a word is entered, any quotes that contain the word are displayed on screen.  
 
-**Day 58 - (Day 1 of Project Week)**  
+## Day 58  
+**(Day 1 of Project Week)**  
 
-We were put into groups of 4 this morning for our week long project week. The brief is to create a full-stack application which we will present and demonstrate on Friday. The application should be something that will enhance the experience of bootcampers on the remote School of Code journey.  
-
-Manifesto: 
+We were put into groups of 4 this morning for our week long project week. The brief is to create a full-stack application which we will present and demonstrate on Friday. The application should be something that will enhance the experience of bootcampers on the remote School of Code journey.    
+  
+**Manifesto:**   
 We each wrote three answers to the question 'what makes a good team' and used dot voting to select the three most popular answers:
 - Respect (everyone's) ideas are equal
 - Common goal to work towards
@@ -429,26 +429,26 @@ We did the same for our recovery plan, and here are the three with the most vote
 - Decisions made in group space & time; keep to an extra work plan?
 - Stand-ups twice a day to talk about plans and progress to make sure everyone keeps updated and on the same page
 
-Planning:
+**Planning:**
 We started by listing all of the problems/issues we have personally faced, then grouping into the following categories:
 
-Work/Life Balance:
+*Work/Life Balance*  
 (mental overload, lack of social life outside of course, working long hours, no breaks, hard to switch off)
 
-Keeping up:
+*Keeping up*  
 (stress of not finishing tasks/getting behind, imposter syndrome, keeping track of code snippets/notes/syntax, not knowing how we're doing in comparison to others)
 
-Technical Challenges:
+*Technical Challenges*  
 (not grasping concepts, mental overload, struggling to keep up with pace, remembering syntax)
 
-Ideas:
+**Ideas:**
 
 We came up with two app ideas that might solve some of these problems:
 
-Social Meetup App
+*Social Meetup App*  
 (could include map of where other bootcampers are, organised social events, way of checking in with friends)
 
-Technical/Code Snippets App
+*Technical/Code Snippets App*  
 (save concepts into folders to revisit, no need to trawl through docs, presented simply to reduce cognitive overload, copy to clipboard)
 
 As a group we voted to work with the Technical/Code Snippets App. Our Minimum Viable Product:
@@ -463,7 +463,8 @@ We split into two groups:
 Retro:
 We used the '4 Ls' - liked, learned, longed for and lacked. We will do this each day to reflect on how we worked as a team.
 
-**Days 59, 60 and 61 (Coding Days of Project Week)**  
+## Days 59, 60 and 61  
+**(Coding Days of Project Week)**  
 
 We built our first full stack app! I worked on the back end, using node.js, express and PostgreSQL.
 Initially we created a local mock data file so that the front end could use this to link up with the search input.
@@ -474,14 +475,14 @@ Then created the following CRUD routes:
 - POST
 - DELETE  
 
-**Day 62**  
+## Day 62  
 We spent the morning reflecting on our project and planning our presentation, which we delivered in the afternoon to some industry judges.  
 
-**Day 63**
+## Day 63
 
 We learned about Code Reviews, and practiced this by reviewing another team's code! In the evening I played around with React and created a dynamic search bar.
 
-**Day 64**  
+## Day 64  
 
 Today we learned about Documenting our Code, then put this into practice by adding a readme to our project. The main principles we learned were:
 - focus on what the reader needs to know
@@ -490,7 +491,7 @@ Today we learned about Documenting our Code, then put this into practice by addi
 
 This evening I completed a few CodeWars - I'm almost at 6kyu so hoping to get there by the end of the week!  
 
-**Day 65**  
+## Day 65  
 
 We continued with the process of documenting our code, and also started refactoring it. As part of the refactoring process we:
 - created a component called 'home' and moved code that was inside our App component into that, so that all that now happens is that other components are rendered inside app - it looks a lot neater now
@@ -500,12 +501,12 @@ We continued with the process of documenting our code, and also started refactor
 
 In the afternoon we worked with other groups to explain our refactoring process and hear about theirs.
 
-**Day 66**  
+## Day 66  
 
 We started learning about user authentication and authorisation and the pros/cons of implementing it ourselves vs via a third party.
 In the evening I returned to the Ron Swanson Quotes app I'm working on and used React Router to add another page, and moved the search component so that it shows up there.  
 
-**Days 67 and 68**  
+## Days 67 - 68  
 
 Today we used Auth0 to add:
 - user log in
@@ -514,60 +515,61 @@ Today we used Auth0 to add:
 
 I also recapped this over the weekend and learned how to use an access token.
 
-**Day 69**  
+## Day 69  
 
-I tried to add some additional functionality to the dynamic search bar I created the other day. I wanted to get it so that when the list items display they can be clicked on and then render another displaying more relevant information. I didn't have much luck with this and also made a mistake where I forgot to commit to GitHub so lost some work(!) I then followed this tutorial online, but left out the styling: https://medium.com/geekculture/create-a-simple-search-component-in-react-js-using-react-hooks-710c1dfe8b58  
+I tried to add some additional functionality to the dynamic search bar I created the other day. I wanted to get it so that when the list items display they can be clicked on and then render another displaying more relevant information. I didn't have much luck with this and also made a mistake where I forgot to commit to GitHub so lost some work(!) I then followed this [tutorial online](https://medium.com/geekculture/create-a-simple-search-component-in-react-js-using-react-hooks-710c1dfe8b58 ), but left out the styling:  
 
-**Day 70**  
+## Day 70  
 
 Today we learned how to deploy a react app using Netlify!
 This evening I looked through various component libraries and experimented with using Tachyons. I also want to try out Bootstrap and Material Design  
 
-**Day 71**  
+ 
+## Day 71  
 
 We deployed an app today. The back end using Heroku, then the front end using Netlify (like yesterday). We then connected front and back end. 
 
-**Day 72**  
+## Day 72  
 
 This morning we learned about context in react, and workng in groups to write a guide to state, props and context. This afternoon we watched a demo on react custom hooks, then started a workshop on how to use them.  
 
-**Day 73**  
+## Day 73  
 
-We had a demo from Couchbase today, which was excited as I can see how use it is. The session was quite past paced so I'm hoping to return to the workshop we were given at the end of the day and spend some more time getting to grips with it.
+We had a demo from Couchbase today, which was exciting as I can see how useful it is. The session was quite past paced so I'm hoping to return to the workshop we were given at the end of the day and spend some more time getting to grips with it.
 
-**Day 74**  
+## Day 74  
 
 We were introduced to AWS today, and started using Amplify to deploy a react app.  
 
-**Day 75**  
+## Day 75  
 
 Been working on my book reviews app. Created and populated a database hosted on Heroku, and got this connected to the front end, but the data isn't displaying how I want it yet.  
 
-**Day 76**  
+## Day 76  
 
 Today we tried out component libraries. In my pair we were given Headless UI. Unfortunately I'm not a fan as the components are not styled. However, they do have some good aria tags so I can see how it might be useful in certain situations.  
 
-**Days 77 - 78**  
+## Days 77 - 78  
 
 In bootcamp we have been recapping some principles of React. In the evenings I have been working on my book reviews app and have now got the data rendering properly on screen (from the backend).  
 
-**Day 79**  
+## Day 79  
 
 Today was our last hackathon of the bootcamp as next week we start our final (four week) project! We created a very simple react app where the user can search a small list of recipes. We started building a heroku backend, but hit an error of 'self certified certificate' which turned out to be because we had duplicated the pool.  
 
-**Days 80 - 81**  
+## Days 80 - 81  
 
 Over the weekend I've been working on my Book Reviews Project. I've been having an issue where, the list items display and, when selected, on the one list item disappears. However, what I wanted to happen is for all list items to disappear. In order for this to work, I realise I need to lift state up into a higher component. So I've been playing around with this (not yet successfully!)  
 
-**Day 82**  
+## Day 82  
 
 Today was supposed to be Day 1 of our 4 week Final Project. Howver, due to the heatwave this has now been postponed until Wednesday. Instead, I spent the day on my portfolio. I created a React App and coded the home page. I wanted to have a moving background, of falling cherry blossoms. I couldn't find quite the effect I was looking for, so I experimented with a few TS Particles, and adjusted the colours and some specifics of one to get it as close as I could.  
 
-**Day 82**  
+## Day 82  
 
 I didn't get too much done today because of the heatwave! I started on wireframes (using Figma) for the 'About' and 'Projects' sections of my portfolio. I also had a meeting with my mentor about my Book Reviews App. I realised I was making the functionality too complex, by adding the list and having the items clickable. It's simpler to keep it with the reviews just showing once the user begins typing, as the dynamic search bar filters the results anyway. Hoping to deploy this soon so I get practice doing so, and then I can also link to it from my portfolio.  
 
-**Day 83**
+## Day 83
 
 Today we started our 4 week Final Project. I'm in a team of 6. We wrote our manifesto including 'what makes a good team' and 'how we will handle conflict if it arises' by using sticky notes on Jamboard, which we then dot voted on.  
 
