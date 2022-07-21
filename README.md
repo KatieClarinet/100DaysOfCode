@@ -22,7 +22,7 @@ I've made a quick repo here to test my new skills: [Toggle Dark Mode](https://gi
 
 I've had a real 'everything going wrong' kind of day today. I thought I'd worked out how to add some game scores to the Music Trivia game, but my code isn't working - so I shall return to this with a fresh perspective in a day or so.  
   
-At SoC today we were introduced to 'Coolors' website, so I have used a premade palette to jazz up the Music Trivia game. A small accomplishment, but hopefully lots of small improvements will add up to big ones soon.  
+At SoC today we were introduced to 'Coolors' website, so I used a premade palette to jazz up the Music Trivia game. A small accomplishment, but hopefully lots of small improvements will add up to big ones soon!  
 
 Here's the [link](https://github.com/KatieClarinet/Branch-of-fetch-hackathon---Trivia-Game)
 
@@ -38,10 +38,10 @@ Today was the last day of UX/UI week at SoC and we had to design a business land
 - High fidelity wireframe  
 - Writing a code plan  
   
-This evening I decided to code the page and here's where I've got to:  
+This evening I decided to code the page and here's where I got to:  
 [Catch Landing Page](https://github.com/KatieClarinet/CatchLandingPage)
   
-I still need to center the text in the footer boxes and tweak a few things, but it's the best CSS work I've done so far, and acheived in just a few hours so that's progress!  
+I still need to center the text in the footer boxes and tweak a few things, but it's the best CSS work I've done so far, and achieved in just a few hours so that's progress!  
   
 ## Day 22
   
@@ -329,7 +329,7 @@ Intro to React. We learned about:
 
 Intro to Babel (a transpiler (translater) which turns our JSX back to regular JS).  
 We learned how to create a button component and a list component.  
-Spent some time this evening going through this Tutorial: Intro to React https://reactjs.org/tutorial/tutorial.html  
+Spent some time this evening going through this Tutorial: [Intro to React](https://reactjs.org/tutorial/tutorial.html)  
 
 ## Day 46 
 
@@ -577,5 +577,34 @@ Our project brief is to create an app that solves a problem. It can be any probl
 
 We went through the Disney Ideation process (dreamer, realist and critic rooms) with these ideas and looked into APIs that would help us to create the Electric Vehicle Charging app. That is currently our favourite idea, but we will continue researching it tomorrow to see how viable it is.  
 
+## Day 84  
+
+**Day 2 of Four Week Final Project**  
+
+We continued researching the Electric Vehicle Charging App today. Initially we put together questions we needed answering and sent out a google survey. We used the answer to this to create User Personas and User Stories.  
+
+We then split into two groups
+- one group to have a play around with the Google Maps API and see how it suits our needs
+- the other group to research competitors and begin a low fidelity wireframe  
+
+
+
+<!-- 
+## Day 85
+## Day 86
+## Day 87
+## Day 88
+## Day 89
+## Day 90
+## Day 91
+## Day 92
+## Day 93
+## Day 94
+## Day 95
+## Day 96
+## Day 97
+## Day 98
+## Day 99
+## Day 100 -->
 
 
