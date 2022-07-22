@@ -565,11 +565,13 @@ Over the weekend I've been working on my Book Reviews Project. I've been having 
 
 Today was supposed to be Day 1 of our 4 week Final Project. Howver, due to the heatwave this has now been postponed until Wednesday. Instead, I spent the day on my portfolio. I created a React App and coded the home page. I wanted to have a moving background, of falling cherry blossoms. I couldn't find quite the effect I was looking for, so I experimented with a few TS Particles, and adjusted the colours and some specifics of one to get it as close as I could.  
 
-## Day 82  
+## Day 83  
 
 I didn't get too much done today because of the heatwave! I started on wireframes (using Figma) for the 'About' and 'Projects' sections of my portfolio. I also had a meeting with my mentor about my Book Reviews App. I realised I was making the functionality too complex, by adding the list and having the items clickable. It's simpler to keep it with the reviews just showing once the user begins typing, as the dynamic search bar filters the results anyway. Hoping to deploy this soon so I get practice doing so, and then I can also link to it from my portfolio.  
 
-## Day 83
+## Day 84
+
+**Day 1 of Four Week Final Project** 
 
 Today we started our 4 week Final Project. I'm in a team of 6. We wrote our manifesto including 'what makes a good team' and 'how we will handle conflict if it arises' by using sticky notes on Jamboard, which we then dot voted on.  
 
@@ -577,7 +579,7 @@ Our project brief is to create an app that solves a problem. It can be any probl
 
 We went through the Disney Ideation process (dreamer, realist and critic rooms) with these ideas and looked into APIs that would help us to create the Electric Vehicle Charging app. That is currently our favourite idea, but we will continue researching it tomorrow to see how viable it is.  
 
-## Day 84  
+## Day 85  
 
 **Day 2 of Four Week Final Project**  
 
@@ -587,11 +589,19 @@ We then split into two groups
 - one group to have a play around with the Google Maps API and see how it suits our needs
 - the other group to research competitors and begin a low fidelity wireframe  
 
+## Day 86
 
+**Day 3 of Four Week Final Project**  
+
+Today we did some more research into APIs to see which ones we can use for our project. We looked at the Google Maps API and also one called MapBox. We finalised the concepts for what will be our MVP and what will be stretch goals.  
+
+We completed our low fi wireframes for web browser and mobile phone.  
+
+We then began thinking about our brand: Evie. Who our target audience will be, our brand personality, and some colour pallette ideas. We will continue with this and create our high fi wireframes on Monday.  
+
+To end the day, we presented our plan so far to other bootcampers, and watched theirs.  
 
 <!-- 
-## Day 85
-## Day 86
 ## Day 87
 ## Day 88
 ## Day 89
