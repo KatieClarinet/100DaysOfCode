@@ -601,9 +601,28 @@ We then began thinking about our brand: Evie. Who our target audience will be, o
 
 To end the day, we presented our plan so far to other bootcampers, and watched theirs.  
 
-<!-- 
-## Day 87
-## Day 88
+ 
+## Day 87  
+
+This morning I worked on my [Book Reviews Project](https://github.com/KatieClarinet/BookReviews). I added media queries, so that it now resizes responsively on smaller screens, and a SQL query  
+
+```ORDER BY title ASC```  
+
+so that the results display alphabetically by title.  
+
+
+## Day 88  
+
+**Day 3 of Four Week Final Project**  
+
+None of us were feeling very well today in our group, but we've all supported each other and managed to make some progress.  
+
+We researched the MapBox GL JS API and implemented it in our React App. We added the MapBox Directions API on top so that now it's possible to search for a route by inputting the user's start and end locations.  
+
+We then put together a spread of different fonts and started dot voting on our favourites fonts, as well as our preferred colour palletes.  
+
+As not all team members were in today we held off starting the high fidelity wireframes, but are hoping to do these tomorrow.  
+<!--
 ## Day 89
 ## Day 90
 ## Day 91
