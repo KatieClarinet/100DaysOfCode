@@ -613,7 +613,7 @@ so that the results display alphabetically by title.
 
 ## Day 88  
 
-**Day 3 of Four Week Final Project**  
+**Day 4 of Four Week Final Project**  
 
 None of us were feeling very well today in our group, but we've all supported each other and managed to make some progress.  
 
@@ -622,9 +622,48 @@ We researched the MapBox GL JS API and implemented it in our React App. We added
 We then put together a spread of different fonts and started dot voting on our favourites fonts, as well as our preferred colour palletes.  
 
 As not all team members were in today we held off starting the high fidelity wireframes, but are hoping to do these tomorrow.  
+
+## Day 89  
+
+**Day 5 of Four Week Final Project**  
+
+We had such a productive day today! We completed:
+- New colour palete, using [Reasonable Colours](https://reasonable.work/colors/), an accessible and easy to use tool for selecting colours.
+- Logo
+- High Fidelity Wireframe
+- User Journey
+- Code Plan
+- Component Tree  
+
+In the morning we need to work out how long our first Sprint will be, and what we aim to complete during that time. Then, it's onto coding!
+
+## Day 90  
+
+**Day 6 of Four Week Final Project**  
+
+This morning we decided the details of our first sprint:  
+**Length** one week (Wednesday 27 July - Tuesday 2nd August)  
+**Topic** Reaching our MVP  
+**Tickets:**
+- change map display to customised
+- change search display to customised
+- add EV chargers to map
+- deploy front end on Netlify
+- display logo (positioned on top of map)
+- write tests  
+
+We split into two teams. One team to research/code how to customise the search display, and the other team to research then add the EV chargers to the map.  
+
+However, we realised quite early in the day that during research we had ended up with two (both working) different versions of code that rendered the map on screen. This had happened due to team members experimenting on different repos. We made a decision on which code we would chose to work from, and spent quite some time solidying our understanding of GitHub Flow and setting up our branches to the following structure:
+- Main
+- Development
+- Feature (at the moment we have two feature branches, 'searchbox' and 'chargepoints'). These will be merged into the development branch when completed
+
+I feel like I've learned a lot more about GitHub and branching today!  
+
+
 <!--
-## Day 89
-## Day 90
+
 ## Day 91
 ## Day 92
 ## Day 93
