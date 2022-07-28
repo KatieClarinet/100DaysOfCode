@@ -661,10 +661,19 @@ However, we realised quite early in the day that during research we had ended up
 
 I feel like I've learned a lot more about GitHub and branching today!  
 
+## Day 91  
+
+**Day 7 of Four Week Final Project**  
+
+We started the day by trying to deploy our app to Netlify and this turned out to be a lot harder than anticipated! MapBox isn't immediately compatible with Netlify, however we did manage to make it work by adding an environmental variable NPM_FLAGS in Netlify and assigning it the value of the npm flag --legacy-peer-deps.  
+
+We then split back into the same groups as yesterday and continued with the same tickets (research/code how to customise the search display, research then add the EV chargers to the map).
+
+The progress we made today is:
+- a better understanding of the CSS file and how to manipulate it
+- worked out how to add markers to a map using this [video](https://www.youtube.com/watch?v=oWDd9IygqIA&t=559s), but we need to work out how to implement this in our map
 
 <!--
-
-## Day 91
 ## Day 92
 ## Day 93
 ## Day 94
