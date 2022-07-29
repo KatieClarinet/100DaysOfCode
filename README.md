@@ -673,8 +673,27 @@ The progress we made today is:
 - a better understanding of the CSS file and how to manipulate it
 - worked out how to add markers to a map using this [video](https://www.youtube.com/watch?v=oWDd9IygqIA&t=559s), but we need to work out how to implement this in our map
 
+## Day 92  
+
+**Day 8 of Four Week Final Project**  
+
+We continued in our groups this morning and had some success!  
+
+Adding the markers:
+We worked out how to add the markers to our own map (this just involved slightly changing the code in the video as this was written in classes, but we are using hooks). One member of our team made a local data file with around 20 charging points, and we linked to this.
+
+CSS:
+This team continued with editing the CSS of the search bar to incorporate our chosen colour template and styling.
+
+Blockers:
+When we merged our branches to main our build failed on Netlify, due to an error that stated 'marker is defined but not used'. We were able to overcome this by adding in the following line  
+
+```// eslint-disable-next-line ``` 
+
+We also had an issue where we merged two branches but the wrong way round! Thankfully we didn't lose any code as one member of the team hadn't pulled down the changes yet. Definitely still learning lots!
+
 <!--
-## Day 92
+
 ## Day 93
 ## Day 94
 ## Day 95
