@@ -690,11 +690,28 @@ When we merged our branches to main our build failed on Netlify, due to an error
 
 ```// eslint-disable-next-line ``` 
 
-We also had an issue where we merged two branches but the wrong way round! Thankfully we didn't lose any code as one member of the team hadn't pulled down the changes yet. Definitely still learning lots!
+We also had an issue where we merged two branches but the wrong way round! Thankfully we didn't lose any code as one member of the team hadn't pulled down the changes yet. Definitely still learning lots!  
+
+## Day 93  
+
+**Day 9 of Four Week Final Project**  
+
+I took a break from coding over the weekend as the project is quite tiring and I needed some proper rest.  
+
+The first thing we did today was to merge the development branch into main and check that all was still working on Netlify. We then discussed where we were in the project and which tickets take priority next. At this stage the ticket we still had open was the 'finish CSS on the routeplanner - referring to the high fidelity wireframe on Figma'. We decided to stay in the same teams for the time being but have one member swap over to the CSS team.  
+
+Whilst they worked on that, my sub-group started working on how to add 'geolocation', and we succesfully added it so that when a user clicks a button, they are prompted to select whether or not they give permission for their location to be used and, if so, the map relocates to those coordinates.  
+
+During our after-lunch standup we set the following goals for the afternoon:
+- work out how to toggle the drop-down directions so that they only show when a user wants them to
+- work out how to show only the markers in within a certain radius  
+
+In my sub-group we researched Isochrone API and Turf.js and are planning to try and implement Turf.js in the morning!
+
 
 <!--
 
-## Day 93
+
 ## Day 94
 ## Day 95
 ## Day 96
