@@ -708,11 +708,20 @@ During our after-lunch standup we set the following goals for the afternoon:
 
 In my sub-group we researched Isochrone API and Turf.js and are planning to try and implement Turf.js in the morning!
 
+## Day 94  
+
+**Day 10 of Four Week Final Project**  
+
+One of our team had a mentor meeting yesterday evening and they discussed using Open Charge Map API, as this would allow us to using something called a 'bounding box' (which basically works like an area container) and find charge points within it. So, we researched the API this morning and played around with the sample fetch requests to see how much data we needed to extract.  
+
+We then added a fetch request to our react app and refactored our code to link up to this (rather than the local data file we were previously using). We realised there are actually numerous EV charge points across the country, so are still experimenting on which area to display as we want to see if the app takes longer to load for large areas. For the moment we are just showing Birmingham.  
+
+The next task we moved onto was how to store the coordinates from the 'GeolocateControl' as a variable, and then set these as the user's start location. We found a few very handy stack overflow articles that helped us get started, but did spend some time puzzling over how and where to access the variable! Thankfully, we made it work!
 
 <!--
 
 
-## Day 94
+
 ## Day 95
 ## Day 96
 ## Day 97
