@@ -718,11 +718,21 @@ We then added a fetch request to our react app and refactored our code to link u
 
 The next task we moved onto was how to store the coordinates from the 'GeolocateControl' as a variable, and then set these as the user's start location. We found a few very handy stack overflow articles that helped us get started, but did spend some time puzzling over how and where to access the variable! Thankfully, we made it work!
 
+
+## Day 95  
+
+**Day 11 of Four Week Final Project**  
+
+Today we were really hoping to hit our MVP by showing the EV charge points nearest to the route, and writing tests. However, we hit a few walls! 
+
+I was in the 'testing' team but it turns out that MapBox isn't compatible with Jest, React testing Library or Cypress. It is compatible with Selenium, but none of us were successful at installing that.  
+
+The team working on 'polylines' did quite a bit of research but weren't able to implement any changes today.  
+
+Fingers crossed we have a bit more success tomorrow!
+
 <!--
 
-
-
-## Day 95
 ## Day 96
 ## Day 97
 ## Day 98
