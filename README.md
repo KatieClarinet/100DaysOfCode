@@ -731,10 +731,28 @@ The team working on 'polylines' did quite a bit of research but weren't able to 
 
 Fingers crossed we have a bit more success tomorrow!
 
+## Day 96
+
+**Day 12 of Four Week Final Project**  
+
+We hit more blockers today when trying to access the user input for the search fields: 'current location' and 'destination'. However, we eventually found that by firing an event every time 'sourcedata' was updated and console logging it, then dot notating inside the object, we could access the coordinates. We were then able to send a fetch request to the Open Charge Map API (dynamically updating part of the URL with these values each time) and get the markers showing along the route!
+
+## Day 97
+
+**Day 13 of Four Week Final Project**  
+
+The final piece in the jigsaw puzzle for us to hit our MVP was to use the user's current location coordinates, and create a bounding box around them then show only the EV chargers within this area. We worked it out by:
+Finding my current location coordinates,
+The coordinates of a place 5 miles North West of here (top corner of the bounding box)
+The coordinates of a place 5 miles South East of here (bottom corner of the bounding box)
+We then working out the difference between the coordinates and add/subtracted the difference and stored these in variables. We then sent a fetch request to the Open Charge Map API (inserting the variables as template literals) so that charge points show for a 5 mile radius around the user current location.  
+
+We then had an hour left, so split into two groups:
+- one to prepare our group presentation
+- one to start setting up react router and trying to render a Formik form on screen
+
 <!--
 
-## Day 96
-## Day 97
 ## Day 98
 ## Day 99
 ## Day 100 -->
