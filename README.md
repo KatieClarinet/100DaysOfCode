@@ -739,7 +739,6 @@ We hit more blockers today when trying to access the user input for the search f
 
 ## Day 97
 
-**Day 13 of Four Week Final Project**  
 
 The final piece in the jigsaw puzzle for us to hit our MVP was to use the user's current location coordinates, and create a bounding box around them then show only the EV chargers within this area. We worked it out by:
 Finding my current location coordinates,
@@ -751,9 +750,14 @@ We then had an hour left, so split into two groups:
 - one to prepare our group presentation
 - one to start setting up react router and trying to render a Formik form on screen
 
+## Day 98
+
+**Day 14 of Four Week Final Project**  
+
+We had a 'memory leak' from the way we were accessing the user input for the search fields: 'current location' and 'destination' (see day 96) so spent a lot of the day trying to fix this! Finally found some answers and used gitOrigin and gitDirection, from these [docs](https://github.com/mapbox/mapbox-directions.js/blob/mb-pages/API.md). We also put together some 'reviews' in a mock data file which we pulled onto our markers, and implemented a random number functions to generate different coloured markers (didn't quite work!)
+
 <!--
 
-## Day 98
 ## Day 99
 ## Day 100 -->
 
