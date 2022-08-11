@@ -756,9 +756,28 @@ We then had an hour left, so split into two groups:
 
 We had a 'memory leak' from the way we were accessing the user input for the search fields: 'current location' and 'destination' (see day 96) so spent a lot of the day trying to fix this! Finally found some answers and used gitOrigin and gitDirection, from these [docs](https://github.com/mapbox/mapbox-directions.js/blob/mb-pages/API.md). We also put together some 'reviews' in a mock data file which we pulled onto our markers, and implemented a random number functions to generate different coloured markers (didn't quite work!)
 
-<!--
-
 ## Day 99
-## Day 100 -->
+
+**Day 15 of Four Week Final Project**  
+
+Today we created added a form component to our map. We initially wanted users to be able to click a link from the popup and have the form display as a modal, but we couldn't figure that out, so we used react router and set up the form with the path '/feedback'. We also set up our backend repo, with CRUD routes, and created a table on heroku with the same columns as form fields.
+
+## Day 100 
+
+**Day 16 of Four Week Final Project** 
+
+We struggled a lot today as the markers started loading really slowly (and not entirely sure why!) but we managed to hook up our POST request so that when the review form is submitted the backend gets populated with the data. This took some time as part of the form is a star rating where the number is accessed 'on hover' and saved as state and for some time we were either receiving the star value OR the other field values but not both to the backend, we ended up changing the order of items in the POST request which fixed this. We started writing a fetch request to the backend so that the review data could be shown on the markers in addition to the data from the Open Charge Map API.  
 
 
+## Day 101 
+
+**Day 17 of Four Week Final Project**  
+
+We were hoping to have finished coding by today so that we could start our presentation preperation, but as we still needed to populate the markers with reviews from the backend we decided to split up:
+- Two of our team started work on presentation planning
+- 1 of our team worked on CSS for the form
+- 2 of us kept working on the functionality  
+
+The issue we were facing was how to get the markers to show different colours depending on the star rating (1-5) but we had some of the bootcamp coaches come in and show us how to chain ternary operators. Then, this evening when I wanted to add a star image to each marker (5 stars for a 5 star review, 4 for a 4 star etc) I realised I could also chain ternary operators to do this, so that was a very valuable lesson!
+
+We now have a fully functioning map so will be able to fully commit to presentation planning from tomorrow!
